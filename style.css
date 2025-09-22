@@ -36,10 +36,11 @@ h2 {
     margin: 20px 0 20px 0;
 }
 #edu_box {
-    width: 800px;
+    width: 600px;
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     gap: 20px;
 }
 #edu_box .courses-item img {
